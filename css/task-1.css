@@ -1,0 +1,40 @@
+h2 {
+  margin: 0 0 16px;
+}
+
+.item {
+  display: flex;
+  flex-direction: column;
+
+  width: 390px;
+  min-height: 216px;
+  background-color: #f6f6fe;
+  margin-bottom: 24px;
+  border-radius: 8px;
+  padding: 16px;
+  margin: 24px;
+}
+.items-in {
+  font-family: "Montserrat", sans-serif;
+  list-style-type: none;
+  width: 360px;
+  height: 40px;
+
+  border: 1px solid #808080;
+  border-radius: 4px;
+
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #2e2f42;
+
+  padding: 8px 16px;
+}
+
+.categories-list {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding-left: 0;
+}

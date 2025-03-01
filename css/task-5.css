@@ -1,0 +1,20 @@
+.widget {
+  text-align: center;
+  padding: 100px 88px;
+  letter-spacing: 0.04em;
+}
+.change-color {
+  font-size: 16px;
+  letter-spacing: 0.04em;
+  color: #fff;
+
+  border-radius: 8px;
+  border: none;
+  width: 148px;
+  height: 40px;
+  background: #4e75ff;
+  outline: none;
+}
+.change-color:hover {
+  background: #6c8cff;
+}
